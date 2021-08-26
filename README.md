@@ -5,7 +5,7 @@ A list of practical electronics and robotics resources.
 <img src="https://github.com/vbookshelf/Robotics-Resources-for-Beginners/blob/main/images/marilia-castelli-wCVNhNnI_2s-unsplash.jpg" width="500"></img>
 <br>
 
-## Online Courses
+### Online Courses
 
 1- Electricity & electronics - Robotics, learn by building<br>
 https://www.udemy.com/course/analog-electronics-robotics-learn-by-building/
@@ -18,7 +18,7 @@ https://www.udemy.com/course/robotic-drives-and-physics/
 
 <br>
 
-## YouTube Channels
+### YouTube Channels
 
 1- Murtaza's Workshop - Robotics and AI<br>
 https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A
