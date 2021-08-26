@@ -32,7 +32,7 @@ https://www.youtube.com/c/DIYPerks
 
 <br>
 
-### Projects that combine Ai and Robotics
+### Homemade projects that combine Ai and Robotics
 
 1- Raspberry Pi Personal Assistant Robot (finds objects & follows you)<br>
 https://www.youtube.com/watch?v=aso3N4YiCAQ
