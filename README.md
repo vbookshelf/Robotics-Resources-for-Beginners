@@ -37,6 +37,9 @@ https://www.youtube.com/c/DIYPerks
 1- Raspberry Pi Personal Assistant Robot (finds objects & follows you)<br>
 https://www.youtube.com/watch?v=aso3N4YiCAQ
 
+2- Drone Face Tracking using OpenCV<br>
+https://www.youtube.com/watch?v=unwS78C-N_c
+
 
 
 <br>
