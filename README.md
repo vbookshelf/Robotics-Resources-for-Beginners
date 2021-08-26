@@ -29,6 +29,13 @@ https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ
 3- DIY Perks<br>
 https://www.youtube.com/c/DIYPerks
 
+<br>
+
+### Other
+
+1- RioBotz Combat Robot Tutorial (BattleBots)<br>
+https://www.riobotz.com/tutorials
+
 
 <br>
 
