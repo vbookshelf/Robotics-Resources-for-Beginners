@@ -16,6 +16,9 @@ https://www.udemy.com/course/digital-electronics-robotics-learn-by-building-modu
 3- Robotic Drives & Physics: Robotics, learn by building III<br>
 https://www.udemy.com/course/robotic-drives-and-physics/
 
+4- Learn OpenCV in three hours with Python<br>
+https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=298s
+
 <br>
 
 ### YouTube Channels
