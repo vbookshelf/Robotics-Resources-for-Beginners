@@ -21,6 +21,17 @@ https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=298s
 
 <br>
 
+### How to get a Python script to send data to an Arduino and vice versa
+
+1- Arduino - Send Commands with Serial Communication<br>
+https://www.youtube.com/watch?v=utnPvE8hN3o
+
+2- Arduino - Bidirectional Serial Communication with Raspberry Pi<br>
+(It doesn't need to be a Rasberry Pi. It could also be an ordinary pc.)<br>
+https://www.youtube.com/watch?v=OJtpA_qTNL0
+
+<br>
+
 ### YouTube Channels
 
 1- Murtaza's Workshop - Robotics and AI<br>
