@@ -37,10 +37,13 @@ https://www.youtube.com/watch?v=OJtpA_qTNL0
 1- Murtaza's Workshop - Robotics and AI<br>
 https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A
 
-2- Boston Dynamics<br>
+2- DroneBot Workshop<br>
+https://www.youtube.com/c/Dronebotworkshop1/featured
+
+3- Boston Dynamics<br>
 https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ
 
-3- DIY Perks<br>
+4- DIY Perks<br>
 https://www.youtube.com/c/DIYPerks
 
 
