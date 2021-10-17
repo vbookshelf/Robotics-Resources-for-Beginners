@@ -40,10 +40,13 @@ https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A
 2- DroneBot Workshop<br>
 https://www.youtube.com/c/Dronebotworkshop1/featured
 
-3- Boston Dynamics<br>
+3- ExplainingComputers<br>
+https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA
+
+4- Boston Dynamics<br>
 https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ
 
-4- DIY Perks<br>
+5- DIY Perks<br>
 https://www.youtube.com/c/DIYPerks
 
 
