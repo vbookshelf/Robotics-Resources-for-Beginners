@@ -3,6 +3,7 @@ A list of practical electronics and robotics resources.
 
 <br>
 <img src="https://github.com/vbookshelf/Robotics-Resources-for-Beginners/blob/main/images/marilia-castelli-wCVNhNnI_2s-unsplash.jpg" width="500"></img>
+<i>Photo by Marilia Castelli on Unsplash</i><br>
 <br>
 
 ### Online Courses
@@ -87,9 +88,4 @@ https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners
 
 
 <br>
-
-<hr>
-
-Photo by Marilia Castelli on Unsplash
-
 
