@@ -81,6 +81,10 @@ https://www.youtube.com/watch?v=vDOkUHNdmKs
 1- RioBotz Combat Robot Tutorial (BattleBots)<br>
 https://www.riobotz.com/tutorials
 
+2- vbookshelf<br>
+Raspberry Pi Resources for Beginners<br>
+https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners
+
 
 <br>
 
